@@ -21,7 +21,7 @@ The primary objectives of this project is to predict the drinkability of water i
 - Visualization: Implement a visualization tool to present the insights.
 
 #### Data Source and Composition
-The dataset is a combination of synthetic data generated using the Weka tool and the Synthetic Minority Over-sampling Technique (SMOTE) filter (77%), along with direct data collected from users through a web platform (23%).
+##
 
 #### Planning of the project
 ** DAY 1

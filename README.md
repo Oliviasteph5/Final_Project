@@ -6,7 +6,7 @@
 ##  Data Science End to End Project: The development of a comprehensive water quality monitoring and prediction system.
 
 #### Introduction
-This README file provides an overview of a  Data Science project plan focused on the development of a comprehensive water quality monitoring and prediction system. The initial dataset used for this project consisted of 10 features and 3276 rows
+This README file provides an overview of a  Data Science project plan focused on the development of a comprehensive water quality monitoring and prediction system. The initial dataset used for this project consisted of 16 features and 349440 rows
 
 #### Dataset Information
 - Univariate: dataset involves observations or samples with one target variable.
@@ -49,4 +49,4 @@ The primary objectives of this project is to predict the drinkability of water i
 2. Work on the presentation.
 3. Prepare for presentation.
 
-Dataset URL: https://www.kaggle.com/datasets/devanshibavaria/water-potability-dataset-with-10-parameteres
+Dataset URL: https://www.kaggle.com/datasets/xiaoxiaoliangzi/water-potability-prediction

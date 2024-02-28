@@ -6,12 +6,12 @@
 ##  Data Science End to End Project: The development of a comprehensive water quality monitoring and prediction system.
 
 #### Introduction
-This README file provides an overview of a  Data Science project plan focused on the development of a comprehensive water quality monitoring and prediction system. The dataset used for this project consists of 10 features and 2011 rows
+This README file provides an overview of a  Data Science project plan focused on the development of a comprehensive water quality monitoring and prediction system. The initial dataset used for this project consisted of 10 features and 3276 rows
 
 #### Dataset Information
-- Multivariate: dataset involves observations or samples with more than one variable or feature.
+- Univariate: dataset involves observations or samples with one target variable.
 - Subject Area: environment, healthcare, public health, sustainability.
-- Feature Type: boolean.
+- Feature Type: float and boolean.
 
 #### Project Objectives
 The primary objectives of this project is to predict the drinkability of water in real time.
@@ -24,26 +24,27 @@ The primary objectives of this project is to predict the drinkability of water i
 ##
 
 #### Planning of the project
-** DAY 1
+** STAGE 1
 1. Acquire the dataset.
 2. Download the dataset from the source.
 3. Verify the dataset format and structure.
 4. Load the dataset into a data frame (e.g., pandas DataFrame in Python).
 
-** DAY 2
-1. Data wrangling.
-2. Display basic information (e.g., number of rows, columns, data types).
-3. Decide on a strategy for handling missing data (e.g., imputation or removal). Implement the chosen strategy.
-4. Stating hypothesis.
+** STAGE 2
+1. Data preprocessing.
+      Handle missing values, outliers, and data inconsistencies.
+2. Explore basic statistics and distributions of variables.
+3. Formulate hypotheses for further analysis.
 
-** DAY 3
+
+** STAGE 3
 1. Plot histograms for numerical variables to understand their distributions.
-2. Create bar charts for categorical variables.
+2. Create bar charts for variables.
 3. Create several classification models and cross validate to check for accuracy
-4. Working on visaulizations and getting insights.
+4. Work on visualizations and getting insights.
 
 
-** DAY 4 
+** STAGE 4 
 1. Make conclusions.
 2. Work on the presentation.
 3. Prepare for presentation.
